@@ -1,0 +1,33 @@
+header {
+    background-color:#f7baa1;
+    color:AliceBlue;
+}
+
+body {
+    background-color:AntiqueWhite;
+}
+
+main {
+    background-color: AliceBlue;
+    padding: 20px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img{
+    border-radius:50%;
+}
+
+a img:hover {
+    background-color:AliceBlue;
+}
+
+main {
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+#main-title {
+    text-align: center;
+}
